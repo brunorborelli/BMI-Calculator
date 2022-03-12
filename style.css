@@ -1,0 +1,32 @@
+
+body{
+    background-color: antiquewhite;
+    margin: 2px;
+}
+
+.container{
+    padding: 1rem;
+    border: 2px solid;
+}
+
+.title{
+
+    padding: 1rem;
+    
+}
+
+.input{
+    padding-bottom: 1rem;
+}
+
+.result{
+    border: 2px solid;
+    padding: 1rem;
+}
+
+button{
+    
+    font: bold 1.2rem serif;
+    cursor: pointer;
+}
+
